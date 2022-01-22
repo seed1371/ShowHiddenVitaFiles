@@ -11,3 +11,16 @@ C:\Users\bakat\source\repos\ShowHiddenVitaFiles\ShowHiddenVitaFiles\obj\Debug\Sh
 C:\Users\bakat\source\repos\ShowHiddenVitaFiles\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.pdb
 C:\Users\bakat\source\repos\ShowHiddenVitaFiles\ShowHiddenVitaFiles\bin\Debug\GuiControls.dll
 C:\Users\bakat\source\repos\ShowHiddenVitaFiles\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.csproj.CopyComplete
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\bin\Debug\ShowHiddenVitaFiles.exe.config
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\bin\Debug\ShowHiddenVitaFiles.exe
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\bin\Debug\ShowHiddenVitaFiles.pdb
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\bin\Debug\GuiControls.dll
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.csproj.AssemblyReference.cache
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.Form1.resources
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.Properties.Resources.resources
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.csproj.GenerateResource.cache
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.csproj.CoreCompileInputs.cache
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.csproj.CopyComplete
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.exe
+C:\Users\bakat\OneDrive\ドキュメント\GitHub\ShowHiddenVitaFiles\obj\Debug\ShowHiddenVitaFiles.pdb
